@@ -26,7 +26,7 @@ This application includes user authentication, a dynamic dashboard with key busi
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Ibrahimsaibu/mini-saas.git
+git clone https://github.com/Ibrahimsaibu/mini-saas-test.git
 cd mini-saas
 ```
 
