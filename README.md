@@ -5,7 +5,7 @@ This application includes user authentication, a dynamic dashboard with key busi
 
 ## ✨ Live Demo
 
-> 🔗
+>https://mini-saas-test.vercel.app 🔗
 
 ---
 
