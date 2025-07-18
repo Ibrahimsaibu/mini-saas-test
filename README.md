@@ -27,7 +27,7 @@ This application includes user authentication, a dynamic dashboard with key busi
 
 ```bash
 git clone https://github.com/Ibrahimsaibu/mini-saas-test.git
-cd mini-saas
+cd mini-saas-test
 ```
 
 ### 2. **Install dependencies**
